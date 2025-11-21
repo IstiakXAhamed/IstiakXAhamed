@@ -2,9 +2,9 @@
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
     viewBox='0 0 500 70'
-    style='background-color: #00000000;'
+    style='background-color: #0d1117; border-radius: 10px;'
     width='500px' height='70px'>
-
+    
     <style>
 @font-face {
   font-family: 'Righteous';
