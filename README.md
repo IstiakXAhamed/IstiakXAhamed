@@ -31,7 +31,7 @@
 
 <!-- Social badges -->
 <div align="center" style="margin:14px 0 10px;">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:sanim1728@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
