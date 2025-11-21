@@ -1,107 +1,98 @@
-<!-- README.md -->
+<!-- README.md — Final polished: two-icon rows, equal stat cards, PNG removed, unique style -->
 
-<h1 align="center" style="font-size:48px; margin-bottom:6px;">
+<!-- Header: unique accent color and spacing -->
+<h1 align="center" style="font-size:54px; margin-bottom:6px; color:#6fe7ff;">
   <img src="./typing_intro.svg" alt="Hi There! I'm Istiak" />
 </h1>
 
-<h2 align="center" style="font-size:22px; margin-top:0.1rem; margin-bottom:6px;">
-  Machine Learning • Deep Learning • Data Analysis • Test Automation
+<h2 align="center" style="font-size:22px; margin:6px 0 8px; color:#9fe9ff;">
+  Machine Learning • Deep Learning • Data Analysis • Python
 </h2>
 
-<h3 align="center" style="font-size:18px; font-weight:600; margin-top:0.1rem; margin-bottom:14px;">
-  Computer Science Student from Bangladesh 🇧🇩
+<h3 align="center" style="font-size:17px; font-weight:600; color:#cfeef8; margin-bottom:12px;">
+  Computer Science Student · Bangladesh 🇧🇩
 </h3>
 
-<div align="center" style="max-width:820px; margin:auto; line-height:1.65; font-size:16px; color:#d6eefe;">
+<!-- Intro: unique tone, slightly larger text -->
+<div align="center" style="max-width:820px; margin:auto; line-height:1.7; font-size:16px; color:#d2ecf7;">
   <p style="margin:0.35rem 0;">
-    🚀 I build and evaluate ML/DL models, craft reproducible data pipelines, and automate testing to keep systems reliable.
+    🚀 I design and evaluate ML/DL models, build reproducible data pipelines, and write Python tools that speed up experiments.
   </p>
   <p style="margin:0.35rem 0;">
-    🧪 Current focus: model prototyping, experiment reproducibility, data analysis, and SQA automation (Playwright / Selenium).
+    🧪 Focused on model prototyping, reproducible experiments, data analysis, and production-ready Python tooling.
   </p>
   <p style="margin:0.35rem 0;">
-    🎮 Exploring Unity (C#) for interactive mini-projects and game mechanics.
+    🎮 Tinkering with Unity (C#) to learn interactive systems and gameplay patterns.
   </p>
-  <p style="margin:0.35rem 0; color:#a9cfe8; font-style:italic;">
-    ⚡ Fun fact: Neural networks get good by failing a million times — that’s where the magic happens.
+  <p style="margin:0.35rem 0; color:#a9dbe8; font-style:italic;">
+    ⚡ Quick note: I love turning messy data into clear, testable insights.
   </p>
 </div>
 
-<br />
-
-<div align="center" style="margin-bottom:0.8rem;">
-  <a href="mailto:youremail@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<!-- Social badges -->
+<div align="center" style="margin:14px 0 10px;">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/md-istiak-ahamed-68b2672a1/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/md-istiak-ahamed-68b2672a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/IstiakXAhamed" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/IstiakXAhamed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0F1724?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/sanim.ahmed.285068" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/sanim.ahmed.285068" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
-<hr style="border:none; height:1px; background:rgba(255,255,255,0.06); margin:1rem 0 1.2rem;" />
+<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:18px 0;" />
 
-<!-- descriptive text above — icons & stats below -->
+<!-- Skills: two balanced rows, equal icon sizing, centered -->
+<h2 align="center" style="font-size:19px; margin-bottom:8px; color:#dff7fb;">⚒️ Skills & Tools</h2>
 
-<h2 align="center" style="font-size:19px; margin-bottom:0.6rem;">⚒️ Skills & Tools</h2>
-
-<div align="center" style="max-width:900px; margin:auto;">
-
-  <!-- Row 1: Languages -->
-  <div align="center" style="margin-bottom:0.85rem;">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py" height="56" alt="languages" />
+<div align="center" style="max-width:920px; margin:auto;">
+  <!-- Row 1 -->
+  <div style="display:flex; justify-content:center; gap:22px; flex-wrap:wrap; margin-bottom:12px; align-items:center;">
+    <!-- languages & main stack -->
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs" alt="languages" height="56" style="border-radius:8px; background:#0f1720; padding:6px;" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" alt="ml-data" height="56" style="border-radius:8px; background:#0f1720; padding:6px;" />
   </div>
 
-  <!-- Row 2: ML / Data -->
-  <div align="center" style="margin-bottom:0.85rem;">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,matlab" height="56" alt="ml-data" />
+  <!-- Row 2 -->
+  <div style="display:flex; justify-content:center; gap:22px; flex-wrap:wrap; margin-bottom:6px; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity" alt="tools" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
+    <img src="https://skillicons.dev/icons?i=selenium,playwright,nodejs" alt="automation" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,figma" alt="web-db-design" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
   </div>
-
-  <!-- Row 3: Tools & Automation -->
-  <div align="center" style="margin-bottom:0.85rem;">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity" height="56" alt="tools" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=selenium,playwright,nodejs" height="52" alt="automation" />
-  </div>
-
-  <!-- Row 4: Web & DB & Design -->
-  <div align="center" style="margin-bottom:0.85rem;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql" height="52" alt="web-db" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma" />
-  </div>
-
 </div>
 
-<hr style="border:none; height:1px; background:rgba(255,255,255,0.06); margin:1rem 0 1.2rem;" />
+<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:18px 0;" />
 
-<h2 align="center" style="font-size:19px; margin-bottom:0.6rem;">⚡ Stats</h2>
+<!-- Stats: equal boxes side-by-side, same width, same style -->
+<h2 align="center" style="font-size:19px; margin-bottom:8px; color:#ffd8a8;">⚡ Stats</h2>
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <!-- Most Used Languages (salesp07 style card) -->
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" />
+<div align="center" style="display:flex; justify-content:center; gap:18px; flex-wrap:wrap;">
+  <!-- left: most used languages -->
+  <div style="width:400px; display:flex; justify-content:center;">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" style="width:100%; border-radius:10px;" />
+  </div>
 
-  <!-- Contributions / Streaks card (salesp07 style) -->
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" />
+  <!-- right: contributions / streak card -->
+  <div style="width:400px; display:flex; justify-content:center;">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" style="width:100%; border-radius:10px;" />
+  </div>
 </div>
 
 <br />
 
-<div align="center" style="max-width:760px; margin:auto;">
-  <!-- design preview image (local path) -->
-  <img src="/mnt/data/e8945d43-8454-44f6-b832-b1068e486853.png" width="720" alt="design preview" style="opacity:0.95; margin-top:14px; border-radius:8px;" />
-</div>
+<!-- NOTE: removed the broken PNG from the visible layout per your request.
+     If you want to preview it locally, uncomment the line below and adjust the path.
+<img src="/mnt/data/86302865-0442-4a53-92ae-4e0e1978a333.png" alt="design preview" width="720" style="border-radius:8px;" />
+-->
 
-<br />
-
-<p align="center" style="font-size:15px; color:#b9dff2; margin-top:8px;">
-  ⭐ Open to collaborations, internships, and ML / automation projects. Reach out!
+<p align="center" style="font-size:15px; color:#cfeefd; margin-top:12px;">
+  ⭐ Open to collaborations, internships, and Python/ML projects — reach out anytime!
 </p>
