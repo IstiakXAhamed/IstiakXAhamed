@@ -1,36 +1,32 @@
-<!-- README.md — Final polished: two-icon rows, equal stat cards, PNG removed, unique style -->
+<!-- README.md -->
 
-<!-- Header: unique accent color and spacing -->
-<h1 align="center" style="font-size:54px; margin-bottom:6px; color:#6fe7ff;">
+<h1 align="center" style="font-size:48px; margin-bottom:6px; color:#6fe7ff;">
   <img src="./typing_intro.svg" alt="Hi There! I'm Istiak" />
 </h1>
 
-<h2 align="center" style="font-size:22px; margin:6px 0 8px; color:#9fe9ff;">
+<h2 align="center" style="font-size:20px; margin:6px 0 6px; color:#9fe9ff;">
   Machine Learning • Deep Learning • Data Analysis • Python
 </h2>
 
-<h3 align="center" style="font-size:17px; font-weight:600; color:#cfeef8; margin-bottom:12px;">
-  Computer Science Student · Bangladesh 🇧🇩
+<h3 align="center" style="font-size:15.5px; color:#cfeef8; margin-bottom:8px; font-weight:500;">
+  CSE Student • Bangladesh — practical ML, Python tooling, and small interactive systems
 </h3>
 
-<!-- Intro: unique tone, slightly larger text -->
-<div align="center" style="max-width:820px; margin:auto; line-height:1.7; font-size:16px; color:#d2ecf7;">
-  <p style="margin:0.35rem 0;">
-    🚀 I design and evaluate ML/DL models, build reproducible data pipelines, and write Python tools that speed up experiments.
+<div align="center" style="max-width:820px; margin:auto; line-height:1.6; font-size:15.5px; color:#d6eefe;">
+  <p style="margin:0.25rem 0;">
+    🚀 I prototype ML/DL models, build reproducible pipelines, and write Python tools to speed experiments.
   </p>
-  <p style="margin:0.35rem 0;">
-    🧪 Focused on model prototyping, reproducible experiments, data analysis, and production-ready Python tooling.
+  <p style="margin:0.25rem 0;">
+    🧪 Focus: model prototyping, reproducible experiments, data analysis, and Python-first tooling.
   </p>
-  <p style="margin:0.35rem 0;">
-    🎮 Tinkering with Unity (C#) to learn interactive systems and gameplay patterns.
-  </p>
-  <p style="margin:0.35rem 0; color:#a9dbe8; font-style:italic;">
-    ⚡ Quick note: I love turning messy data into clear, testable insights.
+  <p style="margin:0.25rem 0; color:#a9dbe8; font-style:italic;">
+    ✨ Motto: keep experiments tiny, reproducible, and well-tested.
   </p>
 </div>
 
-<!-- Social badges -->
-<div align="center" style="margin:14px 0 10px;">
+<br/>
+
+<div align="center" style="margin-bottom:10px;">
   <a href="mailto:sanim1728@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -48,51 +44,49 @@
   </a>
 </div>
 
-<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:18px 0;" />
+<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:14px 0;" />
 
-<!-- Skills: two balanced rows, equal icon sizing, centered -->
-<h2 align="center" style="font-size:19px; margin-bottom:8px; color:#dff7fb;">⚒️ Skills & Tools</h2>
+<!-- compact title divider -->
+<h2 align="center" style="font-size:16px; margin-bottom:8px; color:#e7f8ff;">⚒️ Languages · Frameworks · Tools</h2>
 
-<div align="center" style="max-width:920px; margin:auto;">
+<!-- Icons arranged in two tight rows, small size like your screenshot -->
+<div align="center" style="max-width:760px; margin:auto;">
   <!-- Row 1 -->
-  <div style="display:flex; justify-content:center; gap:22px; flex-wrap:wrap; margin-bottom:12px; align-items:center;">
-    <!-- languages & main stack -->
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs" alt="languages" height="56" style="border-radius:8px; background:#0f1720; padding:6px;" />
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch" alt="ml-data" height="56" style="border-radius:8px; background:#0f1720; padding:6px;" />
+  <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:nowrap; margin-bottom:10px;">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java" height="44" alt="langs" style="background:#0f1720;padding:6px;border-radius:10px;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" height="44" alt="web" style="background:#0f1720;padding:6px;border-radius:10px;" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="44" alt="data" style="background:#0f1720;padding:6px;border-radius:10px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="44" alt="ml" style="background:#0f1720;padding:6px;border-radius:10px;" />
   </div>
 
   <!-- Row 2 -->
-  <div style="display:flex; justify-content:center; gap:22px; flex-wrap:wrap; margin-bottom:6px; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity" alt="tools" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
-    <img src="https://skillicons.dev/icons?i=selenium,playwright,nodejs" alt="automation" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,figma" alt="web-db-design" height="52" style="border-radius:8px; background:#0f1720; padding:6px;" />
+  <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:nowrap;">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,unity" height="40" alt="tools" style="background:#0f1720;padding:6px;border-radius:10px;" />
+    <img src="https://skillicons.dev/icons?i=selenium,playwright" height="40" alt="automation" style="background:#0f1720;padding:6px;border-radius:10px;" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,figma" height="40" alt="db-other" style="background:#0f1720;padding:6px;border-radius:10px;" />
   </div>
 </div>
 
-<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:18px 0;" />
+<hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:14px 0;" />
 
-<!-- Stats: equal boxes side-by-side, same width, same style -->
-<h2 align="center" style="font-size:19px; margin-bottom:8px; color:#ffd8a8;">⚡ Stats</h2>
+<!-- Stats: use the same compact salesp07 cards, slightly reduced width to keep them subtle -->
+<h2 align="center" style="font-size:16px; margin-bottom:10px; color:#ffd8a8;">⚡ Stats</h2>
 
-<div align="center" style="display:flex; justify-content:center; gap:18px; flex-wrap:wrap;">
-  <!-- left: most used languages -->
-  <div style="width:400px; display:flex; justify-content:center;">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" style="width:100%; border-radius:10px;" />
+<div align="center" style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
+  <!-- language breakdown card -->
+  <div style="width:520px; max-width:90%; display:flex; justify-content:center;">
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="width:100%; border-radius:12px;" />
   </div>
 
-  <!-- right: contributions / streak card -->
-  <div style="width:400px; display:flex; justify-content:center;">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" style="width:100%; border-radius:10px;" />
+  <!-- contributions / streaks -->
+  <div style="width:520px; max-width:90%; display:flex; justify-content:center;">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" style="width:100%; border-radius:12px;" />
   </div>
 </div>
 
-<br />
+<br/>
 
-<!-- NOTE: removed the broken PNG from the visible layout per your request.
-     If you want to preview it locally, uncomment the line below and adjust the path.
-<img src="/mnt/data/86302865-0442-4a53-92ae-4e0e1978a333.png" alt="design preview" width="720" style="border-radius:8px;" />
--->
-
-<p align="center" style="font-size:15px; color:#cfeefd; margin-top:12px;">
-  ⭐ Open to collaborations, internships, and Python/ML projects — reach out anytime!
+<p align="center" style="font-size:14.5px; color:#cfeefd; margin-top:6px;">
+  ⭐ Open to collaborations & Python/ML projects — reach out at <strong>sanim1728@gmail.com</strong>
 </p>
+
