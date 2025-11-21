@@ -49,7 +49,7 @@
 <!-- compact title divider -->
 <h2 align="center" style="font-size:16px; margin-bottom:8px; color:#e7f8ff;">⚒️ Languages · Frameworks · Tools</h2>
 
-<!-- Icons arranged in two tight rows, small size like your screenshot -->
+<!-- Icons arranged-->
 <div align="center" style="max-width:760px; margin:auto;">
   <!-- Row 1 -->
   <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:nowrap; margin-bottom:10px;">
@@ -69,18 +69,24 @@
 
 <hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:14px 0;" />
 
-<!-- Stats: use the same compact salesp07 cards, slightly reduced width to keep them subtle -->
-<h2 align="center" style="font-size:16px; margin-bottom:10px; color:#ffd8a8;">⚡ Stats ⚡</h2>
-
-<div align="center" style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;">
-  <!-- language breakdown card -->
-  <div style="width:400px; max-width:50%; display:flex; justify-content:center;">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="width:100%; border-radius:12px;" />
+<!-- Stats cards: equal, side-by-side, max 400px each, with 30-50px outer margin -->
+<div align="center" style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin:40px 0;">
+  <!-- language breakdown card (max 400px) -->
+  <div style="width:400px; max-width:calc(50% - 30px); box-sizing:border-box; margin:30px;">
+    <img
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5"
+      alt="Top Languages"
+      style="width:100%; height:auto; display:block; border-radius:12px;"
+    />
   </div>
 
-  <!-- contributions / streaks -->
-  <div style="width:400 px; max-width:50%; display:inline ;justify-content:center;">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" style="width:100%; border-radius:12px;" />
+  <!-- contributions / streaks card (max 400px) -->
+  <div style="width:400px; max-width:calc(50% - 30px); box-sizing:border-box; margin:30px;">
+    <img
+      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12"
+      alt="Streak Stats"
+      style="width:100%; height:auto; display:block; border-radius:12px;"
+    />
   </div>
 </div>
 
