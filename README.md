@@ -49,23 +49,13 @@
 <!-- compact title divider -->
 <h2 align="center" style="font-size:16px; margin-bottom:8px; color:#e7f8ff;">⚒️ Languages · Frameworks · Tools</h2>
 
-<!-- Icons arranged-->
-<div align="center" style="max-width:760px; margin:auto;">
-  <!-- Row 1 -->
-  <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:nowrap; margin-bottom:10px;">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java" height="44" alt="langs" style="background:#0f1720;padding:6px;border-radius:10px;" />
-    <img src="https://skillicons.dev/icons?i=html,css,js" height="44" alt="web" style="background:#0f1720;padding:6px;border-radius:10px;" />
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="44" alt="data" style="background:#0f1720;padding:6px;border-radius:10px;" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="44" alt="ml" style="background:#0f1720;padding:6px;border-radius:10px;" />
-  </div>
-
-  <!-- Row 2 -->
-  <div style="display:flex; gap:12px; justify-content:center; align-items:center; flex-wrap:nowrap;">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,unity" height="40" alt="tools" style="background:#0f1720;padding:6px;border-radius:10px;" />
-    <img src="https://skillicons.dev/icons?i=selenium,playwright" height="40" alt="automation" style="background:#0f1720;padding:6px;border-radius:10px;" />
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,figma" height="40" alt="db-other" style="background:#0f1720;padding:6px;border-radius:10px;" />
-  </div>
+<div align="center">
+  <img height="45" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,sklearn,tensorflow,pytorch" />
+  <br/>
+  <img height="45" src="https://skillicons.dev/icons?i=git,github,vscode,linux,unity,selenium,mysql,nodejs,figma" />
 </div>
+
+
 
 <hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:14px 0;" />
 
@@ -75,13 +65,13 @@
 <div align="center" style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
 
   <img 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rogerthattan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=istiakxahamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
     alt="top langs"
     style="width:500px; max-width:100%;"
   />
 
   <img 
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rogerthattan&count_private=true&theme=react&border_radius=12"
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=istiakxahamed&count_private=true&theme=react&border_radius=12"
     alt="streak stats"
     style="width:500px; max-width:100%;"
   />
