@@ -69,26 +69,25 @@
 
 <hr style="border:none; height:1px; background:rgba(255,255,255,0.04); margin:14px 0;" />
 
-<!-- Stats cards: equal, side-by-side, max 400px each, with 30-50px outer margin -->
-<div align="center" style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin:40px 0;">
-  <!-- language breakdown card (max 400px) -->
-  <div style="width:400px; max-width:calc(50% - 30px); box-sizing:border-box; margin:30px;">
-    <img
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=IstiakXAhamed&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&size_weight=0.5&count_weight=0.5"
-      alt="Top Languages"
-      style="width:100%; height:auto; display:block; border-radius:12px;"
-    />
-  </div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 
-  <!-- contributions / streaks card (max 400px) -->
-  <div style="width:400px; max-width:calc(50% - 30px); box-sizing:border-box; margin:30px;">
-    <img
-      src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12"
-      alt="Streak Stats"
-      style="width:100%; height:auto; display:block; border-radius:12px;"
-    />
-  </div>
+<div align="center" style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap;">
+
+  <img 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rogerthattan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="top langs"
+    style="width:500px; max-width:100%;"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rogerthattan&count_private=true&theme=react&border_radius=12"
+    alt="streak stats"
+    style="width:500px; max-width:100%;"
+  />
+
 </div>
+
 
 <br/>
 
