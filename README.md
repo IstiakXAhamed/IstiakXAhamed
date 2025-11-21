@@ -8,23 +8,32 @@
   Machine Learning • Deep Learning • Data Analysis • Python
 </h2>
 
-<h3 align="center" style="font-size:15.5px; color:#cfeef8; margin-bottom:8px; font-weight:500;">
-  CSE Student • Bangladesh — practical ML, Python tooling, and small interactive systems
+<h3 align="center" style="font-size:15.5px; color:#cfeef8; margin-bottom:10px; font-weight:500;">
+  Building Intelligent Systems • Learning Better Ways to Create
 </h3>
 
 <div align="center" style="max-width:820px; margin:auto; line-height:1.6; font-size:15.5px; color:#d6eefe;">
+
   <p style="margin:0.25rem 0;">
-    🚀 I prototype ML/DL models, build reproducible pipelines, and write Python tools to speed experiments.
+    🤖 I work on practical machine learning, model experimentation, and data-driven development with a focus on clarity and consistency.
   </p>
+
   <p style="margin:0.25rem 0;">
-    🧪 Focus: model prototyping, reproducible experiments, data analysis, and Python-first tooling.
+    🛠️ Beyond ML, I enjoy creating clean, reliable software — from small interactive systems to structured utilities that make work smoother.
   </p>
+
+  <p style="margin:0.25rem 0;">
+    📚 Lifelong learner at heart — always exploring better patterns, smarter workflows, and the craft of building things that actually matter.
+  </p>
+
   <p style="margin:0.25rem 0; color:#a9dbe8; font-style:italic;">
-    ✨ Motto: keep experiments tiny, reproducible, and well-tested.
+    I believe in simple ideas, steady progress, and solving problems with intention.
   </p>
+
 </div>
 
 <br/>
+
 
 <div align="center" style="margin-bottom:10px;">
   <a href="mailto:sanim1728@gmail.com">
