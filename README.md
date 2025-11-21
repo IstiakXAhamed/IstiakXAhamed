@@ -8,31 +8,30 @@
   Machine Learning • Deep Learning • Data Analysis • Python
 </h2>
 
-<h3 align="center" style="font-size:15.5px; color:#cfeef8; margin-bottom:10px; font-weight:500;">
+<h3 align="center" style="font-size:18px; color:#cfeef8; margin-bottom:12px; font-weight:500;">
   Building Intelligent Systems • Learning Better Ways to Create
 </h3>
 
-<div align="center" style="max-width:820px; margin:auto; line-height:1.6; font-size:15.5px; color:#d6eefe;">
+<div align="center" style="max-width:820px; margin:auto; line-height:1.55; font-size:17px; color:#d6eefe;">
 
   <p style="margin:0.25rem 0;">
-    🤖 I work on practical machine learning, model experimentation, and data-driven development with a focus on clarity and consistency.
+    🤖 I focus on practical machine learning, clear experimentation, and data-driven development with consistency at the core.
   </p>
 
   <p style="margin:0.25rem 0;">
-    🛠️ Beyond ML, I enjoy creating clean, reliable software — from small interactive systems to structured utilities that make work smoother.
-  </p>
-
-  <p style="margin:0.25rem 0;">
-    📚 Lifelong learner at heart — always exploring better patterns, smarter workflows, and the craft of building things that actually matter.
+    🧩 I work on small interactive ideas and analytical projects that turn concepts into something you can explore and improve.
   </p>
 
   <p style="margin:0.25rem 0; color:#a9dbe8; font-style:italic;">
-    I believe in simple ideas, steady progress, and solving problems with intention.
+    📚 Always learning, refining ideas, and aiming for steady, meaningful progress.
   </p>
 
 </div>
 
 <br/>
+
+
+
 
 
 <div align="center" style="margin-bottom:10px;">
