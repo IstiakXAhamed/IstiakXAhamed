@@ -79,7 +79,7 @@
   </div>
 
   <!-- contributions / streaks -->
-  <div style="width:400 px; max-width:50%; display:flex; justify-content:center;">
+  <div style="width:400 px; max-width:50%; display:inline ;justify-content:center;">
     <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=IstiakXAhamed&theme=react&border_radius=12" alt="Streak Stats" style="width:100%; border-radius:12px;" />
   </div>
 </div>
